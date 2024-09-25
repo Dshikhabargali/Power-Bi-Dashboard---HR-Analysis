@@ -1,5 +1,5 @@
 HR Analytics Dashboard - Power BI Project
-This project presents an HR analytics dashboard developed using Power BI, designed to help organizations analyze employee data and derive actionable insights. The dashboard provides a comprehensive view of key HR metrics such as employee demographics, performance, attrition rates, and departmental insights.
+This project presents an HR analytics dashboard developed using Power BI, designed to help organizations analyze employee data and derive actionable insights. The dashboard provides a comprehensive view of key HR metrics such as attrition rates, department analysis and job satisfaction.
 
 Key Features:
 Employee Demographics: Visual representations of workforce composition based on age, gender, department, and tenure.
